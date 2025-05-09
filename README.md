@@ -1,4 +1,6 @@
-## Hi there 👋
+# Halo semuanya, saya Muhamad Padlan Padilah 👋
+
+### seorang pelajar
 
 <!--
 **Padlan123/Padlan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
