@@ -4,8 +4,9 @@
 
 #### Tentang saya
 
+- Nama saya Muhamad Padlan Padilah
 - saya seorang pelajar dari **SMK Budi Bakti Ciwidey**
-- Saya sedang belajar **PHP** dan **Javascript**
+- Saya sedang belajar bahasa **PHP** dan **Javascript**
 
 #### Bahasa yang dipakai
 
